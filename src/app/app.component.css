@@ -1,0 +1,17 @@
+.opers {
+    border: 2px;
+    border-style: solid;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    margin: 5px;
+    color: rgb(28, 46, 180);
+  }
+
+  .result {
+    border: 3px;
+    border-style: solid;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    margin: 6px;
+    color: #888;
+  }
